@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.th1 {
+  width: 100%;
+}
+th,
+td {
+  width: 25%;
+}
+/*td{
+  width: 10%;
+}*/
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  text-align: center;
+  border: 2px solid;
+  border-collapse: collapse;
+}
+.logo{
+  float: left;
+}
